@@ -46,20 +46,20 @@ For other Linux distributions, please refer to their respective package manageme
 
 To compile Gymnux, ensure you have GCC (GNU Compiler Collection) installed on your system. Then, follow these steps:
 
-    Clone this GitHub repository:
+Clone this GitHub repository:
 
 
 ```
 git clone https://github.com/0xd4n10/gymnux.git
 cd gymnux
 ```
-    Use the provided make file to compile the code:
+Use the provided make file to compile the code:
 
 
 ```
 make
 ````
-    The executable gymnux will be created in the bin directory.
+The executable gymnux will be created in the bin directory.
 
 
 ## Usage
