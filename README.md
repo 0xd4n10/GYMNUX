@@ -8,6 +8,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [To-Do](#To-Do)
 - [License](#license)
 
 ## Introduction
@@ -76,6 +77,14 @@ Note: Gymnux currently supports simple routines but may expand its capabilities 
 ## Contributing
 
 We welcome contributions to improve Gymnux and make it more useful for the fitness community. If you have any bug fixes, new features, or enhancements in mind, feel free to open an issue or submit a pull request. Please ensure that your code adheres to the project's coding standards.
+
+## To-Do 
+
+- [ ] Add support for termux (Incomplete)
+- [ ] Add functionality for deleting sets from routines (Incomplete)
+- [ ] Add support for Windows & MacOS (Incomplete)
+- [ ] Add functionality for intervals within sets (Incomplete)
+      
 ## License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for your purposes. However, we would appreciate it if you give credit to the original authors by linking back to this repository.
